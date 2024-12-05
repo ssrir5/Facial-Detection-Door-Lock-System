@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-## for ECE479 ICC Lab2 Part3
 
 '''
 *Definition for reusable resnet block*
