@@ -1,12 +1,10 @@
-## for ECE479 ICC Lab2 Part3
+
 
 '''
 *Main Student Script*
 '''
 
-# Your works start here
 
-# Import packages you need here
 from inception_resnet import InceptionResNetV1Norm
 import numpy as np
 import tensorflow as tf
